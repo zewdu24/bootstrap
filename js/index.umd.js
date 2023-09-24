@@ -4,6 +4,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  * --------------------------------------------------------------------------
  */
+console.log(gebtenal)
 
 import Alert from './src/alert.js'
 import Button from './src/button.js'
